@@ -1,4 +1,6 @@
-package com.e800800.econsume;
+package com.e800800.UIModule;
+
+import com.e800800.econsume.R;
 
 import android.app.Activity;
 import android.os.Bundle;
